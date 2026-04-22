@@ -11,7 +11,7 @@ This project collects metadata from arXiv using its public API, cleans and store
 
 ## Key results
 
-- **Articles collected:** 21,000+ (2015–2025, `hep-th` and `gr-qc`).
+- **Articles collected:** 81,000+ (2015–2025, `hep-th` and `gr-qc`).
 - **Top authors:** [`Salvatore Capozziello`, `Robert B. Mann`, `A. Morozov`, etc]
 - **Keyword trends:** `black hole`, `quantum`, `gravity`.
 - **Best classifier:** Logistic Regression – **77% accuracy** (multi‑class).
