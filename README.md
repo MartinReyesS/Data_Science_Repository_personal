@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 [![Status](https://img.shields.io/badge/Status-Actively%20Updated-brightgreen?style=flat)]()
-[![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-F37626?logo=jupyter&logoColor=white)]()
 [![Projects](https://img.shields.io/badge/Projects-Basic%20%7C%20Growing-orange)]()
 
 Welcome! This is my personal Data Science repository where I gather hands‑on projects that showcase my journey from physics research to data‑driven problem solving.
