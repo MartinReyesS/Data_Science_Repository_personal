@@ -1,13 +1,19 @@
-# Data_Science_Repository_personal
+# Data Science Portfolio
 
-## 🧠 Knowledge Refresher – Code Vault
+[![Status](https://img.shields.io/badge/Status-Actively%20Updated-brightgreen?style=flat)]()
+[![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)]()
+[![Projects](https://img.shields.io/badge/Projects-Basic%20%7C%20Growing-orange)]()
 
-> *A personal repository to store, organise, and revisit code that keeps my skills sharp and up‑to‑date.*
+Welcome! This is my personal Data Science repository where I gather hands‑on projects that showcase my journey from physics research to data‑driven problem solving.
 
-### 📌 Purpose
+## What’s inside
 
-This repository serves as my **living knowledge base** – a place where I:
-- **Store** small scripts, algorithms, and mini‑projects that demonstrate key concepts.
-- **Practice** new libraries, languages, or techniques as I learn them.
-- **Refresh** my memory on topics I haven’t touched in a while.
-- **Track** my progress and identify gaps in my understanding.
+- 📊 **Data Analysis** – Exploration, cleaning & visualization with pandas, Matplotlib, Seaborn
+- 🤖 **Machine Learning** – Predictive models built with scikit‑learn, TensorFlow/Keras, PyTorch
+- 📝 **Case Studies** – End‑to‑end mini‑projects with clear storytelling
+
+
+
+---
+
+🔗 **More about me:** [github.com/MartinReyesS](https://github.com/MartinReyesS)
